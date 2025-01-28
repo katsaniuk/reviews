@@ -1,0 +1,20 @@
+{
+  "home": {
+    "welcome": "Welcome to the home page!",
+    "description": "This is the home page of your app."
+  },
+  "review": {
+    "title": "Product Review",
+    "reviewsCount": "reviews"
+  },
+  "buttons": {
+    "backToHome": "Back to Home",
+    "goToGoogle": "Go to Google",
+    "customAction": "Open Modal Window",
+    "goToReviews": "Go to Reviews"
+  },
+  "modal": {
+    "thankYou": "Thank you for clicking the button!",
+    "close": "Close"
+  }
+}
