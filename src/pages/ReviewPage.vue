@@ -34,7 +34,6 @@ const fetchReviews = async () => {
     if (!response.ok) throw new Error('Error fetching reviews');
 
     const data: ReviewData[] = await response.json();
-    console.log('Reviews fetched:', data);
 
     reviews.value = data;
   } catch (error) {
